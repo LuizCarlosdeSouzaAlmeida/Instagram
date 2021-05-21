@@ -1,10 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Tela login do instagram
+## Primeiro projeto realizado no bootcamp da DIO
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Esse é o repositório da nossa aula de Flexbox, na qual fizemos a interface de login do Instagram! 
+Utilizando HTML e CSS.
 
 ## 🚀 Let's code! 🚀
